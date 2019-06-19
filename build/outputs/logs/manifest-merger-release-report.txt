@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/jonny.rillich/StudioProjects/Maze/andEnginePhysicsBox2DExtension/src/main/AndroidManifest.xml:2:1-6:12
+INJECTED from /Users/jonny.rillich/StudioProjects/Maze/andEnginePhysicsBox2DExtension/src/main/AndroidManifest.xml:2:1-6:12
+INJECTED from /Users/jonny.rillich/StudioProjects/Maze/andEnginePhysicsBox2DExtension/src/main/AndroidManifest.xml:2:1-6:12
+INJECTED from /Users/jonny.rillich/StudioProjects/Maze/andEnginePhysicsBox2DExtension/src/main/AndroidManifest.xml:2:1-6:12
+INJECTED from /Users/jonny.rillich/StudioProjects/Maze/andEnginePhysicsBox2DExtension/src/main/AndroidManifest.xml:2:1-6:12
+INJECTED from /Users/jonny.rillich/StudioProjects/Maze/andEnginePhysicsBox2DExtension/src/main/AndroidManifest.xml:2:1-6:12
+INJECTED from /Users/jonny.rillich/StudioProjects/Maze/andEnginePhysicsBox2DExtension/src/main/AndroidManifest.xml:2:1-6:12
+	package
+		ADDED from /Users/jonny.rillich/StudioProjects/Maze/andEnginePhysicsBox2DExtension/src/main/AndroidManifest.xml:3:2-49
+		INJECTED from /Users/jonny.rillich/StudioProjects/Maze/andEnginePhysicsBox2DExtension/src/main/AndroidManifest.xml
+		INJECTED from /Users/jonny.rillich/StudioProjects/Maze/andEnginePhysicsBox2DExtension/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/jonny.rillich/StudioProjects/Maze/andEnginePhysicsBox2DExtension/src/main/AndroidManifest.xml:5:2-27
+		INJECTED from /Users/jonny.rillich/StudioProjects/Maze/andEnginePhysicsBox2DExtension/src/main/AndroidManifest.xml
+		INJECTED from /Users/jonny.rillich/StudioProjects/Maze/andEnginePhysicsBox2DExtension/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jonny.rillich/StudioProjects/Maze/andEnginePhysicsBox2DExtension/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/jonny.rillich/StudioProjects/Maze/andEnginePhysicsBox2DExtension/src/main/AndroidManifest.xml:4:2-25
+		INJECTED from /Users/jonny.rillich/StudioProjects/Maze/andEnginePhysicsBox2DExtension/src/main/AndroidManifest.xml
+		INJECTED from /Users/jonny.rillich/StudioProjects/Maze/andEnginePhysicsBox2DExtension/src/main/AndroidManifest.xml
+uses-sdk
+INJECTED from /Users/jonny.rillich/StudioProjects/Maze/andEnginePhysicsBox2DExtension/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/jonny.rillich/StudioProjects/Maze/andEnginePhysicsBox2DExtension/src/main/AndroidManifest.xml
+INJECTED from /Users/jonny.rillich/StudioProjects/Maze/andEnginePhysicsBox2DExtension/src/main/AndroidManifest.xml
+INJECTED from /Users/jonny.rillich/StudioProjects/Maze/andEnginePhysicsBox2DExtension/src/main/AndroidManifest.xml
+INJECTED from /Users/jonny.rillich/StudioProjects/Maze/andEnginePhysicsBox2DExtension/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/jonny.rillich/StudioProjects/Maze/andEnginePhysicsBox2DExtension/src/main/AndroidManifest.xml
+		ADDED from /Users/jonny.rillich/StudioProjects/Maze/andEnginePhysicsBox2DExtension/src/main/AndroidManifest.xml
+		INJECTED from /Users/jonny.rillich/StudioProjects/Maze/andEnginePhysicsBox2DExtension/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/jonny.rillich/StudioProjects/Maze/andEnginePhysicsBox2DExtension/src/main/AndroidManifest.xml
+		ADDED from /Users/jonny.rillich/StudioProjects/Maze/andEnginePhysicsBox2DExtension/src/main/AndroidManifest.xml
+		INJECTED from /Users/jonny.rillich/StudioProjects/Maze/andEnginePhysicsBox2DExtension/src/main/AndroidManifest.xml
